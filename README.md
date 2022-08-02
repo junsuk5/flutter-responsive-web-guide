@@ -1,3 +1,5 @@
+https://junsuk5.github.io/flutter-responsive-web-guide/
+
 # flutter_daigaku
 
 A new Flutter project.

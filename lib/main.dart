@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_daigaku/color_schemes.g.dart';
+import 'package:flutter_daigaku/presentation/main/components/top_menu.dart';
 import 'package:flutter_daigaku/presentation/main/main_screen.dart';
 
 void main() {
